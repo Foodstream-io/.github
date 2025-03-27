@@ -1,12 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<a href="www.foodstream.live">
+    <img src="./logo_foodstream.png" alt="Foodstream" title="Foodstream" width="100"/>
+</a>
 
-**Here are some ideas to get you started:**
+# Foodstream [Organization](#)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![Discord](https://img.shields.io/discord/1343865419995418687)
+
+</div>
+
+## About Foodstream
+
+Foodstream is platform of peer 2 peer streaming of food recipes. It is a platform where you can share your recipes with the world and also learn from others.
+
+## Our Projects
+
+![Foodstream-io/mobile - Github](https://github.com/Foodstream-io/mobile)
+![Foodstream-io/website - Github](https://github.com/Foodstream-io/website)
