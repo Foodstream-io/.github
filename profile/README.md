@@ -6,7 +6,7 @@
 
 # Foodstream [Organization](#)
 
-![Discord](https://img.shields.io/discord/1343865419995418687)
+[![Discord](https://img.shields.io/discord/1343865419995418687)](https://discord.gg/msWJhKv5UD)
 
 </div>
 
